@@ -4,6 +4,6 @@
 
 🌱 Currently, I'm sharpening my skills in Solidity and JavaScript/TypeScript, combining them with React to build robust applications. Additionally, I'm gaining proficiency in deploying applications on the AWS (Amazon Web Services) platform.
 
-📫 Feel free to connect with me on LinkedIn: Jack Topping. If you have any questions or collaboration opportunities, you can reach out to me at jacktopping56@gmail.com.
+📫 Feel free to connect with me on LinkedIn: linkedin.com/in/jacktopping. If you have any questions or collaboration opportunities, you can reach out to me at jacktopping56@gmail.com.
 
 🔍 Let's connect, collaborate, and innovate together! 💻✨
